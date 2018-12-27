@@ -1,0 +1,7 @@
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\bin\Debug\VentiQuattro.exe.config
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\bin\Debug\VentiQuattro.exe
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\bin\Debug\VentiQuattro.pdb
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\obj\Debug\VentiQuattro.csprojAssemblyReference.cache
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\obj\Debug\VentiQuattro.csproj.CoreCompileInputs.cache
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\obj\Debug\VentiQuattro.exe
+Y:\OneDrive\Doc\Program\Ventiquattro\VentiQuattro\VentiQuattro\obj\Debug\VentiQuattro.pdb
