@@ -1,7 +1,7 @@
 # VentiQuattro
 Calculate 24 points from 1~13(including J=11 Q=12 K=13)poker by "+ - * /"
 
-##for example:
+## For example:
 
 C:\Users\luming>VentiQuattro 5 5 5 5
 
