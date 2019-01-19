@@ -1,5 +1,5 @@
 # VentiQuattro
-Calculate 24 points from 1~13(including J Q K)poker by "+ - * /"
+Calculate 24 points from 1~13(including J=11 Q=12 K=13)poker by "+ - * /"
 
 for example:
 
@@ -14,5 +14,3 @@ C:\Users\luming>VentiQuattro 10 10 4 3
 
 C:\Users\luming>VentiQuattro 10 10 4 11
 (4*11)-(10+10)
-
-C:\Users\luming>
